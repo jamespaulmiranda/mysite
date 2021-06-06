@@ -1,0 +1,191 @@
+a {
+  color: #233e8b;
+}
+
+a:hover {
+  color: #233e8b;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
+  color: #233e8b;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #233e8b;
+}
+
+h3 {
+  text-align: left;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  text-align: center;
+  line-height: 1.5;
+  color: #40514E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 10%;
+}
+
+.top_container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: white;
+  margin-top: 20px;
+}
+
+.bottom-container {
+  background-color: #28b5b5;
+  padding: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.profile_pic {
+  border-radius: 100%;
+  background-color: white;
+  border: solid 10px;
+  border-color: #b6c9f0;
+}
+
+.profile_pic:hover {
+  background-color: #98DDCA;
+}
+
+.profile {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.Description {
+  font-weight: normal;
+  text-align: center;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+}
+
+.computer-gif {
+  width: 35%;
+  float: right;
+  margin-left: 5%;
+}
+
+.excel-gif {
+  width: 35%;
+  float: left;
+  margin-right: 5%;
+}
+
+.skills {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.contact-me {
+  text-align: center;
+}
+
+.get-in-touch {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.footer-link {
+  text-align: center;
+  color: #EAF6F6;
+}
+
+.footer-text {
+  text-align: center;
+  color: #EAF6F6;
+  font-size: 1rem;
+}
+
+.par-long {
+  width: 50%;
+  margin: auto;
+  padding: 50px;
+  color: #40514E;
+}
+
+.par-long:hover {
+  background-color: #EAF6F6;
+}
+
+.skill-desc-excel {
+  text-align: left;
+}
+
+.skill-desc-excel:hover {
+  background-color: #EAF6F6;
+}
+
+.skill-desc-data {
+  text-align: left;
+}
+
+.skill-desc-data:hover {
+  background-color: #EAF6F6;
+}
+
+.BUTTON_ARF {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #28B5B5;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_ARF:hover {
+  background: #98DDCA;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
